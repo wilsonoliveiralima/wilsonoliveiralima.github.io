@@ -91,10 +91,31 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: '',
+      title: 'WAC',
       description:
-        '',
-      imageUrl: '',
+        'A competitive multiplayer FPS shooter that unites Counter-Strike and Valorant, currently in development as a hobby',
+      imageUrl: 'https://img.icons8.com/?size=512&id=39848&format=png',
+      link: '',
+    },
+    {
+      title: 'Souls Wizard',
+      description:
+        'A Pokémon GO-like game, made for 310 Games with me as a Freelancer',
+      imageUrl: 'https://img.icons8.com/?size=512&id=39848&format=png',
+      link: '',
+    }, 
+    {
+      title: 'Magnephy',
+      description:
+        'A mobile puzzle game made for a game jam that uses physics manipulations behind electromagnetism to provide simple and fun gameplay',
+      imageUrl: 'https://img.icons8.com/?size=512&id=39848&format=png',
+      link: '',
+    }, 
+    {
+      title: 'Flybis',
+      description:
+        'An experimental social network that is currently in development as a non-priority hobby',
+      imageUrl: 'https://img.icons8.com/?size=512&id=-AszLOZlCRQ0&format=png',
       link: '',
     },
   ],
