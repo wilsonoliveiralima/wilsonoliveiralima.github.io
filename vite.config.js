@@ -21,9 +21,9 @@ export default defineConfig({
       },
       includeAssets: ['logo.png'],
       manifest: {
-        name: 'Portfolio',
-        short_name: 'Portfolio',
-        description: 'Personal Portfolio',
+        name: 'Wilson Oliveira Lima - Portfolio',
+        short_name: 'Wilssola - Portfolio',
+        description: 'Wilson Oliveira Lima',
         icons: [
           {
             src: 'logo.png',
