@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'wilsonoliveiralima',
+    linkedin: 'wilssola',
     twitter: '',
     mastodon: '',
     facebook: '',
