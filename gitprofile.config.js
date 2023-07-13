@@ -106,13 +106,13 @@ const config = {
   education: [
     {
       institution: 'UESC',
-      degree: 'Student BSc Physic - Not Finished',
+      degree: 'BSc Physic - Not Finished',
       from: '2020',
       to: '2022',
     },
     {
       institution: 'UESC',
-      degree: 'Student BSc Production Engineering',
+      degree: 'BSc Production Engineering',
       from: '2023',
       to: 'Present',
     },
