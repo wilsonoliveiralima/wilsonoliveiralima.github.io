@@ -106,9 +106,9 @@ const config = {
   education: [
     {
       institution: 'UESC',
-      degree: 'BSc Physic - Not Finished',
+      degree: 'BSc Physic - Incomplete',
       from: '2020',
-      to: '2022',
+      to: '2023',
     },
     {
       institution: 'UESC',
