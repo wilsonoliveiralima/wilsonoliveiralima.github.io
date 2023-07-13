@@ -3,7 +3,7 @@
 const config = {
   github: {
     username: 'wilssola', // Your GitHub org/user name. (Required)
-    sortBy: 'stars', // stars | updated
+    sortBy: 'updated', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
@@ -67,10 +67,40 @@ const config = {
   ],
   certifications: [
     {
-      name: '',
-      body: '',
-      year: '',
-      link: ''
+      name: 'APICE - Aprendizagem Interativa em Ciências e Engenharia',
+      body: 'METODOLOGIA CIENTÍFICA',
+      year: '2018',
+      link: 'https://www.freecodecamp.org/certification/wilssola/apis-and-microservices'
+    },
+    {
+      name: 'FECIBA - Aprendizagem Interativa em Ciências e Engenharia',
+      body: 'SEIAR - Science Experiments in Augmented Reality',
+      year: '2018',
+      link: 'https://www.freecodecamp.org/certification/wilssola/apis-and-microservices'
+    },
+    {
+      name: 'iMasters Certified Professional',
+      body: 'PHP BOAS PRÁTICAS',
+      year: '2019',
+      link: 'https://www.freecodecamp.org/certification/wilssola/apis-and-microservices'
+    },
+    {
+      name: 'freeCodeCamp',
+      body: 'APIs and Microservices',
+      year: '2020',
+      link: 'https://www.freecodecamp.org/certification/wilssola/apis-and-microservices'
+    },
+    {
+      name: 'freeCodeCamp',
+      body: 'JavaScript Algorithms and Data Structures',
+      year: '2020',
+      link: 'https://www.freecodecamp.org/certification/wilssola/apis-and-microservices'
+    },
+    {
+      name: 'freeCodeCamp',
+      body: 'Responsive Web Design',
+      year: '2020',
+      link: 'https://www.freecodecamp.org/certification/wilssola/apis-and-microservices'
     },
   ],
   education: [
@@ -87,7 +117,6 @@ const config = {
       to: 'Present',
     },
   ],
-
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
@@ -187,7 +216,7 @@ const config = {
       'procyon',
     ],
     */
-
+    
     // Custom theme
     /*
     customTheme: {
@@ -201,7 +230,6 @@ const config = {
     },
     */
   },
-
   // Optional Footer. Supports plain text or HTML.
   footer: '',
 };
