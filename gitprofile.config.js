@@ -111,8 +111,8 @@ const config = {
       to: '2022',
     },
     {
-      institution: 'Student BSc Production Engineering',
-      degree: 'Degree',
+      institution: 'UESC',
+      degree: 'Student BSc Production Engineering',
       from: '2023',
       to: 'Present',
     },
