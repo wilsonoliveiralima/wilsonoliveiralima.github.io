@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'wilssola', // Your GitHub org/user name. (Required)
+    username: 'wilsonoliveiralima', // Your GitHub org/user name. (Required)
     sortBy: 'updated', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,17 +11,17 @@ const config = {
     },
   },
   social: {
-    linkedin: 'wilssola',
+    linkedin: 'wilsonoliveiralima',
     twitter: '',
     mastodon: '',
     facebook: '',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
-    behance: 'wilssola',
+    behance: 'wilsonoliveiralima',
     medium: '',
-    dev: 'wilssola',
-    stackoverflow: '11551591/wilssola', // example: '1/jeff-atwood'
+    dev: 'wilsonoliveiralima',
+    stackoverflow: '11551591/wilsonoliveiralima', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
     website: 'https://tecwolf.com.br',
